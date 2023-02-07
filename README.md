@@ -21,3 +21,11 @@ print(say_hello('Nico'))
 ```
 
     NameError: name 'nbdev_use' is not defined
+
+``` python
+print(say_bye('Nico'))
+```
+
+``` python
+print(say_hi('Nico'))
+```
