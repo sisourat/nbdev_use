@@ -4,6 +4,6 @@ project:
 website:
   title: "nbdev_use"
   site-url: "https://sisourat.github.io/nbdev_use"
-  description: "vi sett"
+  description: "playing around with nbdev"
   repo-branch: main
   repo-url: "https://github.com/sisourat/nbdev_use"

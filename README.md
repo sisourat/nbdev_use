@@ -17,7 +17,7 @@ pip install nbdev_use
 Fill me in please! Don’t forget code examples:
 
 ``` python
-1+1
+print(say_hello('Nico'))
 ```
 
-    2
+    NameError: name 'nbdev_use' is not defined

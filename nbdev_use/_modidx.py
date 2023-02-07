@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://sisourat.github.io',
                 'git_url': 'https://github.com/sisourat/nbdev_use',
                 'lib_path': 'nbdev_use'},
-  'syms': {'nbdev_use.core': {'nbdev_use.core.foo': ('core.html#foo', 'nbdev_use/core.py')}}}
+  'syms': { 'nbdev_use.core': { 'nbdev_use.core.foo': ('core.html#foo', 'nbdev_use/core.py'),
+                                'nbdev_use.core.say_hello': ('core.html#say_hello', 'nbdev_use/core.py'),
+                                'nbdev_use.core.say_hi': ('core.html#say_hi', 'nbdev_use/core.py')}}}
