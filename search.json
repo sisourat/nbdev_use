@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()\n\n\nsource\n\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\nprint(say_hello('Nico'))\n\nHello Nico!\n\n\n\nassert say_hello(\"Hamel\")==\"Hello Hamel!\"\n\n\nsource\n\n\nsay_hi\n\n say_hi (to)\n\nSay hi to somebody\n\nprint(say_hi('Nico'))\n\nHi Nico!\n\n\n\nsource\n\n\nsay_bye\n\n say_bye (to)\n\nSay bye to somebody\n\nprint(say_bye('Nico'))\n\nBye Nico!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev_use",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev_use",
+    "section": "Install",
+    "text": "Install\npip install nbdev_use"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev_use",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\nprint(say_hello('Nico'))\n\nNameError: name 'nbdev_use' is not defined\n\n\n\nprint(say_bye('Nico'))\n\n\nprint(say_hi('Nico'))"
+  }
+]
