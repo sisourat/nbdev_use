@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_use"
+  site-url: "https://sisourat.github.io/nbdev_use"
+  description: "vi sett"
+  repo-branch: main
+  repo-url: "https://github.com/sisourat/nbdev_use"
